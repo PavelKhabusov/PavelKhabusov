@@ -47,6 +47,19 @@ Currently Technical Director at **Kartoteka** — leading AR/MR development for 
 - **Unity Build Pipeline** — Plugin automating cross-platform builds (Windows → macOS → iOS), eliminating manual config
 - **Web Projects** — Production websites for clients on WordPress, Bitrix, and custom stacks
 
+## Recent Open-Source Utilities
+
+**Linux (GNOME) apps & extensions**
+- [Unity-Builder-Dash](https://github.com/PavelKhabusov/Unity-Builder-Dash) — Native GNOME UI for Unity build / deploy / profile across Android devices
+- [GNOME-Workspace-Branch](https://github.com/PavelKhabusov/GNOME-Workspace-Branch) — Vertical "branch" workspaces orthogonal to the main row (GNOME 50)
+- [Claude-Dash](https://github.com/PavelKhabusov/Claude-Dash) — Panel companion for Claude Code (status, queues, quick actions)
+- [throne-indicator](https://github.com/PavelKhabusov/throne-indicator) — Panel toggle + country/latency for the Throne proxy
+- [APK-Dash](https://github.com/PavelKhabusov/APK-Dash) — Nautilus right-click on any APK: version diff vs. device, one-click install
+
+**Other**
+- [CommandsExtension](https://github.com/PavelKhabusov/CommandsExtension) — VS Code one-click runner for `package.json` scripts and `.ps1` files
+- [MVPTemplate](https://github.com/PavelKhabusov/MVPTemplate) — RN/Expo + Fastify + PostgreSQL/Drizzle/Redis full-stack starter
+
 ## Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-khabusov.ru-8B6914?style=flat-square)](https://khabusov.ru)
