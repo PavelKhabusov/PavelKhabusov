@@ -1,7 +1,7 @@
 # Pavel Khabusov
 
-8+ years building at the intersection of web and immersive technology. \
-Leading AR/MR development for Meta Quest 3 and PICO 4 Ultra, building internal tools, and making architectural decisions that hold up.
+8 years building at the intersection of web and immersive technology. \
+Most recently led AR/MR development for an enterprise product on Meta Quest 3 and PICO 4 Ultra — 100+ companies, four app stores.
 
 ## About Me
 
@@ -9,7 +9,7 @@ Leading AR/MR development for Meta Quest 3 and PICO 4 Ultra, building internal t
 const Pavel = {
   roles: ["Software Developer", "Unity XR Developer", "Web Developer"],
   approach: "ship it, then make it elegant",
-  currentRole: "Technical Director @ Kartoteka",
+  currentRole: "Software Engineer — XR & Web Platform @ Kartoteka",
 };
 ```
 
@@ -64,7 +64,7 @@ const Pavel = {
 ## Recent Open-Source Utilities
 
 **Linux (GNOME) apps & extensions**
-- [Unity-Builder-Dash](https://github.com/PavelKhabusov/Unity-Builder-Dash) — Native GNOME UI for Unity build / deploy / profile across Android devices
+- [Unity-Builder-Dash](https://github.com/PavelKhabusov/Unity-Builder-Dash) — Native GNOME UI for Unity build / deploy / profile — one-click builds including remote iOS over SSH, device management via ADB
 - [GNOME-Workspace-Branch](https://github.com/PavelKhabusov/GNOME-Workspace-Branch) — Vertical "branch" workspaces orthogonal to the main row (GNOME 50)
 - [Claude-Dash](https://github.com/PavelKhabusov/Claude-Dash) — Panel companion for Claude Code (status, queues, quick actions)
 - [throne-indicator](https://github.com/PavelKhabusov/throne-indicator) — Panel toggle + country/latency for the Throne proxy
