@@ -65,15 +65,15 @@ const Pavel = {
 
 **Linux (GNOME) apps & extensions**
 - [Unity-Builder-Dash](https://github.com/PavelKhabusov/Unity-Builder-Dash) — Native GNOME UI for Unity build / deploy / profile — one-click builds including remote iOS over SSH, device management via ADB
-- [Gitlab-Pipeline-Dash](https://github.com/PavelKhabusov/Gitlab-Pipeline-Dash) — Top-panel indicator for GitLab pipelines: build progress, manual deploys on click or auto, merge requests created and merged from the menu
 - [GNOME-Workspace-Branch](https://github.com/PavelKhabusov/GNOME-Workspace-Branch) — Vertical "branch" workspaces orthogonal to the main row (GNOME 50)
+- [Gitlab-Pipeline-Dash](https://github.com/PavelKhabusov/Gitlab-Pipeline-Dash) — Top-panel indicator for GitLab pipelines: build progress, manual deploys on click or auto, merge requests created and merged from the menu
 - [Claude-Dash](https://github.com/PavelKhabusov/Claude-Dash) — Panel companion for Claude Code: activity and permission prompts from every session, approve/deny from the top bar
 - [throne-indicator](https://github.com/PavelKhabusov/throne-indicator) — Panel toggle + country/latency for the Throne proxy
 - [APK-Dash](https://github.com/PavelKhabusov/APK-Dash) — Nautilus right-click on any APK: version diff vs. device, one-click install
 
 **Other**
-- [pixel-guard](https://github.com/PavelKhabusov/pixel-guard) — Pixel-perfect QA of live pages against Figma designs: per-element diff of computed CSS and geometry via its own Figma plugin (no REST API limits), Chrome panel with design overlay, CLI for CI, MCP server for agents · [site](https://pavelkhabusov.github.io/pixel-guard/)
 - [CommandsExtension](https://github.com/PavelKhabusov/CommandsExtension) — One-click runner for `package.json` scripts, `.ps1` files and multi-step combos · [Marketplace](https://marketplace.visualstudio.com/items?itemName=PavelKhabusov.commands-extension)
+- [pixel-guard](https://github.com/PavelKhabusov/pixel-guard) — Pixel-perfect QA of live pages against Figma designs: per-element diff of computed CSS and geometry via its own Figma plugin (no REST API limits), Chrome panel with design overlay, CLI for CI, MCP server for agents · [site](https://pavelkhabusov.github.io/pixel-guard/)
 - [MVPTemplate](https://github.com/PavelKhabusov/MVPTemplate) — RN/Expo + Fastify + PostgreSQL/Drizzle/Redis full-stack starter
 
 ## Links
